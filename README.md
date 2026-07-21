@@ -39,9 +39,9 @@ Forma parte de un portafolio académico y profesional orientado a la práctica d
 ```text
 matricesJava/
 ├── src/
-│   ├── ejercicio01/sumaMatrices.java
-│   ├── ejercicio02/restaMatrices.java
-│   └── ejercicio03/multiplicacionMatrices.java
+│   ├── ejercicio01SumaMatrices/sumaMatrices.java
+│   ├── ejercicio02RestaMatrices/restaMatrices.java
+│   └── ejercicio03MultiplicacionMatrices/multiplicacionMatrices.java
 └── README.md
 
 Autor
