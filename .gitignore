@@ -1,1 +1,17 @@
-nbproject/
+# Ignorar configuración privada de NetBeans
+nbproject/private/
+
+# Ignorar carpetas de compilación y distribución
+build/
+dist/
+
+# Ignorar pruebas si no se usan
+test/
+
+# Ignorar archivos generados automáticamente
+manifest.mf
+*.class
+*.log
+
+# Mantener solo el código fuente
+!/src/

@@ -19,9 +19,9 @@ Forma parte de un portafolio académico y profesional orientado a la práctica d
 
 | Ejercicio                  | Clase                       | Descripción |
 |----------------------------|-----------------------------|-------------|
-| **SumaMatrices**           | `sumaMatrices.java`         | Realiza la suma de dos matrices. |
-| **RestaMatrices**          | `restaMatrices.java`        | Calcula la resta entre dos matrices. |
-| **MultiplicacionMatrices** | `multiplicacionMatrices.java` | Implementa la multiplicación de matrices. |
+| **MatrizSuma**           | `matrizSuma.java`         | Realiza la suma de dos matrices. |
+| **MatrizResta**          | `matrizResta.java`        | Calcula la resta entre dos matrices. |
+| **MatrizMultiplicacion** | `matrizMultiplicacion.java` | Implementa la multiplicación de matrices. |
 
 ---
 
@@ -35,13 +35,18 @@ Forma parte de un portafolio académico y profesional orientado a la práctica d
 
 ---
 
+## Tecnologías usadas
+- Java
+- JDK (Java Development Kit)
+- NetBeans IDE
+
 ## Estructura del proyecto
 ```text
 matricesJava/
 ├── src/
-│   ├── ejercicio01SumaMatrices/sumaMatrices.java
-│   ├── ejercicio02RestaMatrices/restaMatrices.java
-│   └── ejercicio03MultiplicacionMatrices/multiplicacionMatrices.java
+│   ├── ejercicio01MatrizSuma/matrizSuma.java
+│   ├── ejercicio02MatrizResta/matrizResta.java
+│   └── ejercicio03MatrizMultiplicacion/matrizMultiplicacion.java
 └── README.md
 
 Autor
